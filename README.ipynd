@@ -1,0 +1,11 @@
+# Arvato_customer_segmentation
+Arvato real-world project 
+
+Summary:
+The work I have implemented in this project summarized as below:
+Exploratory the demographics data: general population of Germany, customers of a mail-order company, and market campaign train and test datasets.
+Cleaned the dataset and select features.
+Used PCA and KMeans to cluster the population. 
+Analyzed the higher potential clusters' top 10 features to get a relatively clear picture of the target population
+Applied supervised machine learning with RandomForestClassifier, LogisticsRegression, and XGBClassifier, GridsearchCV to develop a model that can label the positive response probability to a market campaign. 
+Through the iteration process, I realized that the different estimators might improve the performance a bit, but in order to approach the real limitation, I still have to come back to the first step to process the data more precisely, which is the basis of improving the model performance.
