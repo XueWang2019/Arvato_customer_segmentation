@@ -32,7 +32,7 @@ The work I have implemented in this project summarized as below:
 ## Takesaways:
 Through the iteration process, I realized that the different estimators might improve the performance a bit, but in order to approach the real limitation, I still have to come back to the first step to process the data more precisely, which is the basis of improving the model performance.
 
-My blogpost is here: [blog](https://towardsdatascience.com/bertelsman-arvato-financial-solution-customer-segmentation-c8528d5ac77a?sk=7af6bc445efccdd52c3acadf38154b46)
+My blogpost is here: [blog](https://towardsdatascience.com/bertelsman-arvato-financial-solution-customer-segmentation-c8528d5ac77a)
 
 
 
