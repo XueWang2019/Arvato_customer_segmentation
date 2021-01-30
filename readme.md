@@ -15,9 +15,7 @@
 Nowadays, with big data becomes reality, people now focus on how to use the data to realize commercial values. One area which is much more mature is how to picture the potential customer or predict the behavior of the customer, to target the market or customer more precisely.
 Bertelsman Arvato Finaincial Solution has provided a challenge: how to target the population and convert them into a mailout company's customers more efficiently.
 
-## Files included:
-etl.py: supported files for data cleaning, plot, pca and KMeans.  
-Arvato_customer_segment.ipynb: main file
+
 
 
 ## Summary:
